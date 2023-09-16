@@ -1,0 +1,6 @@
+db.sqlite3
+.idea
+barter/.env
+env
+barter/__init__.py
+barter/__pycache__/
